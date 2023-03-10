@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Autoservice</name>
+    </assembly>
+    <members>
+        <member name="T:Autoservice.UIElements.AddProduct">
+            <summary>
+            Страница добавления/редактирования товара
+            </summary>
+            <summary>
+            AddProduct
+            </summary>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.#ctor">
+            <summary>
+            Добавление товара
+            </summary>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.#ctor(System.Int32)">
+            <summary>
+            редактирование товара
+            </summary>
+            <param name="ProductID"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.LoadInfo(System.Object,System.ComponentModel.DoWorkEventArgs)">
+            <summary>
+            Загрузка инфы о редактируемом продукте
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.LoadManufacs(System.Object,System.ComponentModel.DoWorkEventArgs)">
+            <summary>
+            Загрузка списка производителей
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.BtnSave_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Проверка введенных данных перед охранением
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.SaveProduct(System.Object,System.ComponentModel.DoWorkEventArgs)">
+            <summary>
+            Сохранение или обновление товара
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.BtnSelectImage_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Выбор изображения
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.BtnAttach_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Переод на страницу выборыа доп товара
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.Attched(System.Object,System.EventArgs)">
+            <summary>
+            Добавление прикрепленного товара
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.Button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Возврат
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.AddProduct.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Autoservice.UIElements.AttachedItem">
+            <summary>
+            Логика взаимодействия для AttachedItem.xaml
+            </summary>
+            <summary>
+            AttachedItem
+            </summary>
+        </member>
+        <member name="M:Autoservice.UIElements.AttachedItem.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Autoservice.UIElements.HistoryPage">
+            <summary>
+            Страница итории продаж
+            </summary>
+            <summary>
+            HistoryPage
+            </summary>
+        </member>
+        <member name="M:Autoservice.UIElements.HistoryPage.#ctor">
+            <summary>
+            Инициализация истори продаж
+            </summary>
+        </member>
+        <member name="M:Autoservice.UIElements.HistoryPage.#ctor(System.Int32)">
+            <summary>
+            Инициалиация истори продаж выбранного товара
+            </summary>
+            <param name="ID"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.HistoryPage.LoadManufacs(System.Object,System.ComponentModel.DoWorkEventArgs)">
+            <summary>
+            Загрузка пика производителей
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.HistoryPage.LoadHistory(System.Object,System.ComponentModel.DoWorkEventArgs)">
+            <summary>
+            Загрузка итории продаж
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.HistoryPage.ManufacBox_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Выбор по производителям
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.HistoryPage.BtnBack_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Возврат на предыдущую траницу
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.HistoryPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Autoservice.UIElements.ProductPage">
+            <summary>
+            Страница списка товаров либо прикрепления доп товара
+            </summary>
+            <summary>
+            ProductPage
+            </summary>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.#ctor">
+            <summary>
+            Инициализация страницы списка товаров
+            </summary>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.#ctor(System.EventHandler,System.Nullable{System.Int32})">
+            <summary>
+            Инициализация траницы выбора доп товара
+            </summary>
+            <param name="handler"></param>
+            <param name="AttachingID"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.LoadManufacs(System.Object,System.ComponentModel.DoWorkEventArgs)">
+            <summary>
+            Загрузка списка производителей
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.LoadProducts(System.Object,System.ComponentModel.DoWorkEventArgs)">
+            <summary>
+            Загрузка списка продуктов, поиск, сортировка
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.UpdateProducts(System.Object,System.EventArgs)">
+            <summary>
+            Запук обновления товаров
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.TextBox_TextChanged(System.Object,System.Windows.Controls.TextChangedEventArgs)">
+            <summary>
+            Запуск поиска по тексту
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.SortBox_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Запуск сортировки по цене и производителю
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.AddPage(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Переход к странице добавления продукта
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.HistoryPage(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Переход к истории продаж
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.AttachProduct(System.Object,System.Windows.Input.MouseButtonEventArgs)">
+            <summary>
+            Возврат на страницу редактирования товара при выборе доп товара
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.GoBack(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Возврат на траницу редактирования товара без прикрепления доп товара
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.UIElements.ProductPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Autoservice.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Autoservice.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Autoservice.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:Autoservice.GridItem">
+            <summary>
+            Логика взаимодействия для GridItem.xaml
+            </summary>
+            <summary>
+            GridItem
+            </summary>
+        </member>
+        <member name="M:Autoservice.GridItem.#ctor">
+            <summary>
+            Элемент плитки продуктов
+            </summary>
+        </member>
+        <member name="M:Autoservice.GridItem.MenuItem_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Редактирование/удаление
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Autoservice.GridItem.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Autoservice.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Autoservice.MainWindow.#ctor">
+            <summary>
+            Комментарий
+            </summary>
+        </member>
+        <member name="M:Autoservice.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Autoservice.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:Autoservice.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:Autoservice.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:Autoservice.Properties.Resources.service_logo">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

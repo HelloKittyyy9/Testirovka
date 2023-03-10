@@ -1,0 +1,140 @@
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe.config
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.xml
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.pdb
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csprojAssemblyReference.cache
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\MainWindow.g.cs
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\App.g.cs
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.cache
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.lref
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\MainWindow.baml
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.g.resources
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.exe
+E:\9ИС-235_Galkin\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.pdb
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe.config
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.xml
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.pdb
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csprojAssemblyReference.cache
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\App.g.cs
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.cache
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.lref
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.g.resources
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.exe
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.pdb
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Resources\service_logo.png
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\GridItem.g.cs
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\GridItem.baml
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\MainWindow.g.cs
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\MainWindow.baml
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\ProductPage.g.cs
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\ProductPage.baml
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AddProduct.g.cs
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AddProduct.baml
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\HistoryPage.g.cs
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\HistoryPage.baml
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AttachedItem.g.cs
+E:\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AttachedItem.baml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Resources\service_logo.png
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe.config
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.xml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.pdb
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csprojAssemblyReference.cache
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AddProduct.g.cs
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AttachedItem.g.cs
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\GridItem.g.cs
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\HistoryPage.g.cs
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\MainWindow.g.cs
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\ProductPage.g.cs
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\App.g.cs
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.cache
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.lref
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AddProduct.baml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AttachedItem.baml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\GridItem.baml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\HistoryPage.baml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\MainWindow.baml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\ProductPage.baml
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.g.resources
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.exe
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.pdb
+E:\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Resources\service_logo.png
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe.config
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.xml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.exe
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Autoservice.pdb
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csprojAssemblyReference.cache
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AddProduct.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AttachedItem.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\GridItem.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\HistoryPage.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\MainWindow.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\ProductPage.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\App.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.cache
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_MarkupCompile.lref
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AddProduct.baml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\AttachedItem.baml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\GridItem.baml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\HistoryPage.baml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\MainWindow.baml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\UIElements\ProductPage.baml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.g.resources
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.exe
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.pdb
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\EntityFramework.dll
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\EntityFramework.xml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice_Content.g.cs
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\obj\Debug\Autoservice.csproj.CopyComplete
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Database.mdf
+D:\UserFiles\Desktop\WorldSkills\WorldSkills ДЭ\09_1.4_4\Сессия 2\Файлы\Autoservice\bin\Debug\Database_log.ldf
+D:\UserFiles\Desktop\Автосервис\bin\Debug\Resources\service_logo.png
+D:\UserFiles\Desktop\Автосервис\bin\Debug\LocalDB.mdf
+D:\UserFiles\Desktop\Автосервис\bin\Debug\LocalDB_log.ldf
+D:\UserFiles\Desktop\Автосервис\bin\Debug\Autoservice.exe.config
+D:\UserFiles\Desktop\Автосервис\bin\Debug\Autoservice.xml
+D:\UserFiles\Desktop\Автосервис\bin\Debug\Autoservice.exe
+D:\UserFiles\Desktop\Автосервис\bin\Debug\Autoservice.pdb
+D:\UserFiles\Desktop\Автосервис\bin\Debug\EntityFramework.dll
+D:\UserFiles\Desktop\Автосервис\bin\Debug\EntityFramework.SqlServer.dll
+D:\UserFiles\Desktop\Автосервис\bin\Debug\EntityFramework.xml
+D:\UserFiles\Desktop\Автосервис\bin\Debug\EntityFramework.SqlServer.xml
+D:\UserFiles\Desktop\Автосервис\bin\Debug\ru\EntityFramework.resources.dll
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\AddProduct.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\AttachedItem.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\GridItem.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\HistoryPage.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\MainWindow.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\ProductPage.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\App.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice_Content.g.cs
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice_MarkupCompile.cache
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice_MarkupCompile.lref
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\AddProduct.baml
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\AttachedItem.baml
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\GridItem.baml
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\HistoryPage.baml
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\MainWindow.baml
+D:\UserFiles\Desktop\Автосервис\obj\Debug\UIElements\ProductPage.baml
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.g.resources
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.Properties.Resources.resources
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.csproj.GenerateResource.cache
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.csproj.CopyComplete
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.exe
+D:\UserFiles\Desktop\Автосервис\obj\Debug\Autoservice.pdb

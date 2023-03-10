@@ -1,0 +1,35 @@
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using CalcLibrary;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CalcLibrary.Tests
+{
+    [TestClass()]
+    public class CalculateTests
+    {
+        [TestMethod()]
+        public void Sum_SqrtTest_firstLessThanZero()
+        {
+			//Arrange
+            double first = -9;
+            double second = 9;
+			
+			//Act Assert		
+            try
+            {
+                double actual = Calculate.Sum_Sqrt(first, second);
+            }
+            catch(ArgumentOutOfRangeException e)
+            {
+                StringAssert.Contains(e.Message, Calculate.msg);
+                return;
+            }
+
+            Assert.Fail("Тестируемое исключение не брошено.");
+        }
+    }
+}

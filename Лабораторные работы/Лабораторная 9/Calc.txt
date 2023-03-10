@@ -1,0 +1,37 @@
+using System;
+
+namespace CalcLibrary
+{
+    public class Calculate
+    {
+        public const string msg = "Incorrect values";
+
+        public static double Sum(double first, double second)
+        {
+            return first + second;
+        }
+        public static double Sub(double first, double second)
+        {
+            return first - second;
+        }
+        public static double Pow(double first, double second)
+        {
+            return Math.Pow(first, second);
+        }
+        public static double Sum_Sqrt(double first, double second)
+        {
+            if (first <= 0)
+            {
+                throw new ArgumentOutOfRangeException("Value", first, msg);
+            }
+            else if (second <= 0)
+            {
+                throw new ArgumentOutOfRangeException("Value", second, msg);
+            }
+            else
+            {            
+                return Math.Sqrt(first) + Math.Sqrt(second);
+            }
+        }
+    }
+}

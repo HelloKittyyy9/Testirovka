@@ -1,0 +1,4 @@
+﻿CREATE DATABASE LocalDB
+CONTAINMENT=NONE
+ON PRIMARY (NAME=LocalDB, FILENAME='D:\UserFiles\Desktop\LocalDB.mdf', SIZE=8MB)
+COLLATE Cyrillic_General_CI_AS;
